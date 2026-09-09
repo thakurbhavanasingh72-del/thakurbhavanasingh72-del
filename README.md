@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI & ML projects<br>👯 I’m looking to collaborate on beginner-friendly tech projects<br>🤝 I’m looking for help with DSA & problem solving<br>🌱 I’m currently learning Python, SQL & AI/ML<br>💬 Ask me about my projects, coding journey & AI/ML<br>⚡ Fun fact: I learn best by building things 🚀
+🔭 I’m currently working on AI & ML projects<br>👯 Heading to collaborate on beginner-friendly tech projects<br>🤝 I’m looking for help with DSA & problem solving<br>🌱 I’m currently learning Python, SQL & AI/ML<br>💬 Ask me about my projects, coding journey & AI/ML<br>⚡ Fun fact: I learn best by building things 🚀
 
 
 ## 🌐 Socials:
